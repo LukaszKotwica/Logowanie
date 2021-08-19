@@ -1,0 +1,14 @@
+current directory: C:/Users/xXx/Desktop/ProjectRails/logowanie/vendor/cache/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+C:/Ruby27-x64/bin/ruby.exe -I C:/Ruby27-x64/lib/ruby/2.7.0 -r ./siteconf20210818-10064-1aweze4.rb extconf.rb
+
+current directory: C:/Users/xXx/Desktop/ProjectRails/logowanie/vendor/cache/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+make "DESTDIR=" clean
+make: *** Brak reguł do wykonania obiektu 'clean'. Stop.
+
+current directory: C:/Users/xXx/Desktop/ProjectRails/logowanie/vendor/cache/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+make "DESTDIR="
+make: Nie ma nic do zrobienia w 'all'.
+
+current directory: C:/Users/xXx/Desktop/ProjectRails/logowanie/vendor/cache/ruby/2.7.0/gems/nio4r-2.5.8/ext/nio4r
+make "DESTDIR=" install
+make: Nie ma nic do zrobienia w 'install'.
